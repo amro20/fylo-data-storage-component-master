@@ -130,7 +130,7 @@ main .container .storage .notification {
   width: 175px;
   position: absolute;
   top: -45px;
-  right: 30px;
+  right: -23.9px;
   border-radius: 10px 10px 0 10px;
   display: flex;
   align-items: center;
